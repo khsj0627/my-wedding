@@ -79,6 +79,6 @@ const CONFIG = {
   meta: {
     title: "최경환 ♥ 이수진 결혼합니다",
     description: "2026년 6월 27일, 소중한 분들을 초대합니다.",
- image: "https://raw.githubusercontent.com/khsj0627/my-wedding/refs/heads/main/images/og/1.jpg" //
+ image: "https://khsj0627.github.io/my-wedding/images/og/1.jpg" //
   }
 };
