@@ -78,6 +78,7 @@ const CONFIG = {
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
     title: "최경환 ♥ 이수진 결혼합니다",
-    description: "2026년 6월 27일, 소중한 분들을 초대합니다."
+    description: "2026년 6월 27일, 소중한 분들을 초대합니다.",
+ image: "https://github.com/khsj0627/my-wedding/blob/main/images/og/1.jpg?raw=true" //
   }
 };
